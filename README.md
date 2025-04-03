@@ -20,7 +20,10 @@ Installation:
 
 Download this repository.
 
-Download dataset https://doi.org/10.13021/ORC2020/OJT2JL
+Download example sessions or full dataset from https://doi.org/10.13021/ORC2020/OJT2JL
+
+Example sessions from the dataset are:
+20230827_20min_45x45cmHighWalls.mat and 20230827_35min_65x65x45cmHighWalls.mat
 
 Download BNT from Moser group 
 
