@@ -16,10 +16,14 @@ where mice explored and arena with a floor size of 45 x 45 cm2 and 30 cm high wa
 Code was custom-written and adapted from toolboxes from The Hasselmo Lab: https://github.com/hasselmonians/CMBHOME and the Moser group: https://bitbucket.org/cnc-ntnu/bnt/src/master/. 
 Custom-written code is available on https://github.com/dannenberglab/Tiling-of-large-scaled-environments-by-grid-cells.
 
-Installation
+Installation:
+
 Download this repository.
+
 Download dataset https://doi.org/10.13021/ORC2020/OJT2JL
+
 Download BNT from Moser group 
+
 Download CMBHOME 
 
 Main script: "callGrid" analyzes data from two recording sessions (45x45 small maze) and (60x60 medium maze) 
