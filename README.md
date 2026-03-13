@@ -1,5 +1,4 @@
-This repository contains the scripts used to analyze grid cell properties from the paper "Tiling of large-scaled environments by grid cells requires experience",
-available at  https://www.biorxiv.org/content/10.1101/2025.02.16.638536v1.
+This repository contains the scripts used to analyze grid cell properties associated with the published version of the preprint article entitled "Tiling of large-scaled environments by grid cells requires experience", available at  https://www.biorxiv.org/content/10.1101/2025.02.16.638536v1.
 
 The code was run and tested on Microsoft Windows 11 and MATLAB 2023a. The estimated time to install MATLAB is 15 - 45 min. The estimated time to download the sample data is 5 - 10 min. The estimated time to run the code is 1 min.
 
